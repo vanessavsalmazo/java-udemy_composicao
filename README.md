@@ -1,2 +1,8 @@
-# java-udemy_composicao
-Programa desenvolvido durante o curso do Prof Nélio Alves que simula o post de uma rede social com conteúdo, comentários e likes (hard code) com aplicação de composições de classes e listas de comentários, utilizando datas através do  SimpleDateFormat e impressão de Strings com várias linhas construído com StringBuilder.
+<h1>Programa post rede social</h1>
+Programa que simula o post de uma rede social com conteúdo, comentários e likes (hard code).</br>
+</br>
+Conceitos aplicados no exercício:</br>
+• Composições de classes</br>
+• Listas de comentários</br>
+• Datas através do  SimpleDateFormat</br> 
+• Impressão de Strings com várias linhas construído com StringBuilder.</br>
